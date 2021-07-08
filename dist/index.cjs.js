@@ -2228,68 +2228,68 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/goosedefi",
+                href: "https://t.me/batswapchat",
             },
             // {
             //   label: "Bahasa Indonesia",
             //   href: "https://t.me/PancakeSwapIndonesia",
             // },
-            {
-                label: "中文",
-                href: "https://t.me/goosefinancechinese",
-            },
             // {
-            //   label: "Tiếng Việt",
-            //   href: "https://t.me/PancakeSwapVN",
+            //     label: "中文",
+            //     href: "https://t.me/goosefinancechinese",
             // },
-            {
-                label: "Italiano",
-                href: "https://t.me/goosefinanceitalian",
-            },
-            {
-                label: "русский",
-                href: "https://t.me/goosefinancerussian",
-            },
-            {
-                label: "Türkiye",
-                href: "https://t.me/GooseFinanceTurkey",
-            },
+            // // {
+            // //   label: "Tiếng Việt",
+            // //   href: "https://t.me/PancakeSwapVN",
+            // // },
             // {
-            //   label: "Português",
-            //   href: "https://t.me/PancakeSwapPortuguese",
+            //     label: "Italiano",
+            //     href: "https://t.me/goosefinanceitalian",
             // },
-            {
-                label: "Español",
-                href: "https://t.me/goosefinancespanish",
-            },
-            {
-                label: "日本語",
-                href: "https://t.me/goosefinancejapanese",
-            },
-            {
-                label: "Français",
-                href: "https://t.me/goosefinancefrench",
-            },
-            {
-                label: "Announcements",
-                href: "https://t.me/goosefinanceann",
-            },
-            {
-                label: "Price Bot",
-                href: "https://t.me/BinanceRocketEGG",
-            },
+            // {
+            //     label: "русский",
+            //     href: "https://t.me/goosefinancerussian",
+            // },
+            // {
+            //     label: "Türkiye",
+            //     href: "https://t.me/GooseFinanceTurkey",
+            // },
+            // // {
+            // //   label: "Português",
+            // //   href: "https://t.me/PancakeSwapPortuguese",
+            // // },
+            // {
+            //     label: "Español",
+            //     href: "https://t.me/goosefinancespanish",
+            // },
+            // {
+            //     label: "日本語",
+            //     href: "https://t.me/goosefinancejapanese",
+            // },
+            // {
+            //     label: "Français",
+            //     href: "https://t.me/goosefinancefrench",
+            // },
+            // {
+            //     label: "Announcements",
+            //     href: "https://t.me/goosefinanceann",
+            // },
+            // {
+            //     label: "Price Bot",
+            //     href: "https://t.me/BinanceRocketEGG",
+            // },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/goosedefi",
+        href: "https://twitter.com/bat_swap",
     },
-    {
-        label: "Reddit",
-        icon: "RedditIcon",
-        href: "https://www.reddit.com/r/GooseFinanceofficial",
-    },
+    // {
+    //     label: "Reddit",
+    //     icon: "RedditIcon",
+    //     href: "https://www.reddit.com/r/GooseFinanceofficial",
+    // },
 ];
 var MENU_HEIGHT = 64;
 var MENU_ENTRY_HEIGHT = 48;
@@ -2865,9 +2865,9 @@ var templateObject_1$K;
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#aa8929",
-    primaryBright: "#aa8929",
-    primaryDark: "#aa8929",
+    primary: "#F0B90B",
+    primaryBright: "#F0B90B",
+    primaryDark: "#F0B90B",
     secondary: "#7645D9",
     success: "#31D0AA",
     warning: "#FFB237",
